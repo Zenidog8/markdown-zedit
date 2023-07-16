@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/markdown-zedit/static/css/main.d20202a4.css",
+    "main.js": "/markdown-zedit/static/js/main.3f89cdfe.js",
+    "static/js/787.6b3c9cbc.chunk.js": "/markdown-zedit/static/js/787.6b3c9cbc.chunk.js",
+    "index.html": "/markdown-zedit/index.html",
+    "main.d20202a4.css.map": "/markdown-zedit/static/css/main.d20202a4.css.map",
+    "main.3f89cdfe.js.map": "/markdown-zedit/static/js/main.3f89cdfe.js.map",
+    "787.6b3c9cbc.chunk.js.map": "/markdown-zedit/static/js/787.6b3c9cbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20202a4.css",
+    "static/js/main.3f89cdfe.js"
+  ]
+}
